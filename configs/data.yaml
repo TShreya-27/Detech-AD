@@ -1,0 +1,8 @@
+path: D:/detect-ad/detect-ad/data/yolo_dataset
+
+train: images/train/toi
+val: images/val/toi
+test: images/test/toi
+
+names:
+  0: advertisement
